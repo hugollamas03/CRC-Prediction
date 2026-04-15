@@ -1,0 +1,28 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# Data (MUY importante en tu caso)
+data/raw/
+data/processed/
+
+# Outputs de entrenamiento
+checkpoints/
+results/
+
+# Logs opcionales
+logs/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db

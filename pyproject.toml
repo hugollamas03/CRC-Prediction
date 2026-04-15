@@ -1,0 +1,17 @@
+[project]
+name = "tfg-crc"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "ipykernel>=7.2.0",
+    "matplotlib>=3.10.8",
+    "nibabel>=5.4.2",
+    "numpy>=2.2.6",
+    "pandas>=2.3.3",
+    "pillow>=12.1.1",
+    "pydicom>=3.0.2",
+    "scikit-learn>=1.7.2",
+    "tqdm>=4.67.3",
+]
